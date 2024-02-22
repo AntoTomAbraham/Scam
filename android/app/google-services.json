@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645706286661",
+    "project_id": "scam-daff5",
+    "storage_bucket": "scam-daff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645706286661:android:ac64e0d9daf4167a0f052c",
+        "android_client_info": {
+          "package_name": "com.example.boltapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOzX7F9o2Qj4pzWs9wx0lVA5F2MLVYPmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
